@@ -4,6 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
+
+## Screenshots
+### Home Screen
+<img src="screenshot1.png" width="300" height="533">
+### View Screen
+<img src="screenshot2.png" width="300" height="533">
+### Add Screen
+<img src="screenshot3.png" width="300" height="533">
+### Selection for deleting
+<img src="screenshot4.png" width="300" height="533">
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
