@@ -8,7 +8,7 @@ A new Flutter project.
 ## Screenshots
 ### Home Screen
 <img src="screenshot1.png" width="350" height="777">
-###View Screen
+### View Screen
 <img src="screenshot2.png" width="350" height="777">
 ### Add Screen
 <img src="screenshot3.png" width="350" height="777">
