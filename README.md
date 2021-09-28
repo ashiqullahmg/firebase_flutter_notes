@@ -7,13 +7,13 @@ A new Flutter project.
 
 ## Screenshots
 ### Home Screen
-<img src="screenshot1.png" width="300" height="533">
+<img src="screenshot1.png" width="350" height="777">
 ### View Screen
-<img src="screenshot2.png" width="300" height="533">
+<img src="screenshot2.png" width="350" height="777">
 ### Add Screen
-<img src="screenshot3.png" width="300" height="533">
+<img src="screenshot3.png" width="350" height="777">
 ### Selection for deleting
-<img src="screenshot4.png" width="300" height="533">
+<img src="screenshot4.png" width="350" height="777">
 
 
 This project is a starting point for a Flutter application.
