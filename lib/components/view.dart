@@ -1,10 +1,9 @@
 
 import 'package:firebase_flutter_notes/constants/colors.dart';
 import 'package:firebase_flutter_notes/screens/full_image_screen.dart';
-import 'package:firebase_flutter_notes/utilities/encryption.dart';
 import 'package:flutter/material.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'dart:io';
+
 
 class View extends StatefulWidget {
 
@@ -95,9 +94,11 @@ class _ViewState extends State<View> {
                           },
                           child: CachedNetworkImage(
                             placeholder: (context, url) =>
-                                Container(
-                                  child: Image(image: AssetImage(
-                                      'assets/placeholder.png'),),
+                                Center(
+                                  child: Container(
+                                    child: CircularProgressIndicator(
+                                    ),
+                                  ),
                                 ),
                             imageUrl: widget.photoUrl,
                             // width: double.infinity,

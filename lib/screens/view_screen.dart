@@ -166,7 +166,8 @@ class _ViewScreenState extends State<ViewScreen> {
                 },
               ),
               TextButton(
-                child: new Text("Delete"),
+                child: new Text("Delete",
+                style: TextStyle(color: Colors.redAccent),),
                 onPressed: () async {
                   await Database.deleteItem(
                     photoName: widget.photoName,
